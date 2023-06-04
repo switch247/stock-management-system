@@ -1,0 +1,11 @@
+LOGIN X
+NAVIGATION X
+REGISTER X
+RESTOCK X
+ADD X
+ORDERS X
+MY ORDERS X
+
+BUY X(orders table foreign key constraint) fixed now
+
+shipped and delivered on orders will take too long to complete fully
